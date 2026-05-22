@@ -70,7 +70,7 @@ Portfólio profissional pessoal desenvolvido do zero com foco em **performance**
 ## 🗂️ Estrutura do Projeto
 
 ```
-dreibarros.web/
+andreirb.web/
 ├── public/
 │   └── assets/               # CV e assets estáticos
 ├── src/
