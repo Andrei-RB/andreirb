@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+firebase-debug.log
+firebase-debug.err
+.firebase/
+
+# Dependências
+node_modules/
+
+# Builds e Saídas do Vite
+dist/
+dist-ssr/
+build/
+*.local
+
+# Variáveis de Ambiente (CHAVES SECRETAS NUNCA DEVEM IR PARA O GITHUB)
+.env
+.env.*
+!.env.example
+
+# Arquivos de Cache e Build do Firebase (NÃO COMITAR)
+.firebase/
+
+# Testes e Cobertura
+coverage/
+.nyc_output/
+
+# SO (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# IDEs e Editores
+.idea/
+.vscode/*
+!.vscode/settings.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.vscode/
